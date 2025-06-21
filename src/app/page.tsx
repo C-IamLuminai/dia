@@ -22,7 +22,7 @@ export default function Home() {
           }`}
           style={minimized ? { position: 'fixed', top: 32, left: 32, margin: 0 } : {}}
         >
-          Välkommen till DiA!
+          Välkommen till DidaktikVerket!
         </h1>
         <p
           className={`text-lg sm:text-xl text-center sm:text-left max-w-2xl transition-all duration-700 ${
